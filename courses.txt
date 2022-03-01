@@ -1,0 +1,9 @@
+
+HBTU Kanpur Have many courses 
+1- B.tech
+2- MCA
+3- M.tech
+4- MBA
+5- M.Sc
+6- Phd
+
